@@ -1,7 +1,7 @@
 # SOCORRO
 # HELLO, CODEZILLAS! HOW IS EVERYBODY DOING?
 
-#Shrek Script
+# Shrek Script
 
 A ray of light shines down on a leather-bound storybook. The book opens and a voice begins reading its text:
 
